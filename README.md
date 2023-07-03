@@ -31,9 +31,7 @@
 
 <label for="subject">Subject</label><input  id="subject" maxlength="80" name="subject" size="20" type="text" /><br>
 
-<label for="description">Description</label><textarea name="description">
-</textarea>
-<br>
+<label for="description">Description</label><textarea name="description"></textarea><br>
 
 <input type="submit" name="submit">
 
